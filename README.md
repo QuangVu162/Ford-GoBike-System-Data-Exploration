@@ -7,6 +7,7 @@ This data set includes information about individual rides made in a bike-sharing
 ## Analysis files
 
 [Vu_Le_Project_5_Part_I_Exploration](https://github.com/QuangVu162/Ford-GoBike-System-Data-Exploration/blob/main/Vu_Le_Project_5_Part_I_Exploration.ipynb)
+[Vu_Le_Project_5_Part_II_slide_deck](https://github.com/QuangVu162/Ford-GoBike-System-Data-Exploration/blob/main/Vu_Le_Project_5_Part_II_slide_deck.ipynb)
 
 ## Investigation Overview
 
